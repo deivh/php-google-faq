@@ -1,0 +1,10 @@
+body {
+    background-color: white;
+}
+
+div.row {
+    text-align: center;
+    font-weight: bold;
+    width: 80vw;
+    margin: auto;
+}
